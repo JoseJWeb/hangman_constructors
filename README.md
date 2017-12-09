@@ -20,8 +20,9 @@ Inquirer NPM Package - https://www.npmjs.com/package/inquirer
 is-letter NPM Package - https://www.npmjs.com/package/is-letter
 
 Prerequisites
-- Node.js - Download the latest version of Node https://nodejs.org/en/
-Built With
+- Node.js - 
+Download the latest version of Node https://nodejs.org/en/
+
 
 Built With 
 Sublime Text - Text Editor
