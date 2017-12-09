@@ -12,8 +12,11 @@ Run command 'node main.js' to get started playing game (Hint: Superheroes)
 Technology used
 
 Technologies Used 
+
 Node.js
+
 Inquirer NPM Package - https://www.npmjs.com/package/inquirer
+
 is-letter NPM Package - https://www.npmjs.com/package/is-letter
 
 Prerequisites
