@@ -7,9 +7,11 @@ Created a hangman game that uses Node.js and the logic is using JavaScript const
 
 Getting Started
 Clone repo.
+
 Run command in Terminal or Gitbash 'npm install'
+
 Run command 'node main.js' to get started playing game (Hint: Superheroes)
-Technology used
+
 
 Technologies Used 
 
